@@ -3,8 +3,7 @@
 
 Console.Clear();
 
-int key = 0;
-while (key != 1)
+while (true)
 {
     Console.WriteLine("Введите пятизначное число");
     int count = int.Parse(Console.ReadLine()!);
@@ -17,19 +16,21 @@ while (key != 1)
         if (count1 == count5) //Если первая и пятая цифры равны
         {
             int count2 = count % 100 / 10;
-            int count4 = count % 1000 / 100;
+            int count4 = count % 10000 / 1000;
             if (count2 == count4) //Если вторая и четвертая цифры равны
             {
                 Console.WriteLine($"Число {count} является палиндромом");
                 break;
             }
             Console.WriteLine($"Число {count} не является палиндромом");
+            break;
         }
-        
-        key = 1;
+        Console.WriteLine($"Число {count} не является палиндромом");
+        break;
     }
     else
     {
          Console.WriteLine("Это не пятизначное число. Попробуйте снова.");
     }
 }
+
