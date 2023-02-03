@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MyUser\\Desktop\\прога\\geekbrains\\Знакомство с языками программирования С#\\homework3\\homework3.csproj": {}
+    "C:\\Users\\MyUser\\Desktop\\прога\\geekbrains\\Знакомство с языками программирования С#\\homework3\\task23\\task23.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MyUser\\Desktop\\прога\\geekbrains\\Знакомство с языками программирования С#\\homework3\\homework3.csproj": {
+    "C:\\Users\\MyUser\\Desktop\\прога\\geekbrains\\Знакомство с языками программирования С#\\homework3\\task23\\task23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MyUser\\Desktop\\прога\\geekbrains\\Знакомство с языками программирования С#\\homework3\\homework3.csproj",
-        "projectName": "homework3",
-        "projectPath": "C:\\Users\\MyUser\\Desktop\\прога\\geekbrains\\Знакомство с языками программирования С#\\homework3\\homework3.csproj",
+        "projectUniqueName": "C:\\Users\\MyUser\\Desktop\\прога\\geekbrains\\Знакомство с языками программирования С#\\homework3\\task23\\task23.csproj",
+        "projectName": "task23",
+        "projectPath": "C:\\Users\\MyUser\\Desktop\\прога\\geekbrains\\Знакомство с языками программирования С#\\homework3\\task23\\task23.csproj",
         "packagesPath": "C:\\Users\\MyUser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MyUser\\Desktop\\прога\\geekbrains\\Знакомство с языками программирования С#\\homework3\\obj\\",
+        "outputPath": "C:\\Users\\MyUser\\Desktop\\прога\\geekbrains\\Знакомство с языками программирования С#\\homework3\\task23\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MyUser\\AppData\\Roaming\\NuGet\\NuGet.Config"
